@@ -1,5 +1,12 @@
 # Changelog
 
+## Build 0.2.3
+
+Release Date: Aug 02, 2024
+
+- Improve data graph rendering performance.
+- Use opengl as default event plot rendering engine.
+
 ## Build 0.2.2
 
 Release Date: Jul 31, 2024
