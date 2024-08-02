@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.4
+
+Release Date: Aug 02, 2024
+
+- Added duration limit for graph data selection to improve its performance.
+
 ## Build 0.2.3
 
 Release Date: Aug 02, 2024
