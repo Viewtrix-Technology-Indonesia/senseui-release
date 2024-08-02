@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.5
+
+Release Date: Aug 03, 2024
+
+- Auto remove captured data log outisde window width.
+
 ## Build 0.2.4
 
 Release Date: Aug 02, 2024
