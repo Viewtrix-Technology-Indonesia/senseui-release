@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.6
+
+Release Date: Aug 03, 2024
+
+- Improve startup speed by delaying auto update check.
+
 ## Build 0.2.5
 
 Release Date: Aug 03, 2024
