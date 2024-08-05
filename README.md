@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.8
+
+Release Date: Aug 05, 2024
+
+- Fixed auto range control issue.
+
 ## Build 0.2.7
 
 Release Date: Aug 05, 2024
