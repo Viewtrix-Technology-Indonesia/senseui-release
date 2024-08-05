@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.7
+
+Release Date: Aug 05, 2024
+
+- Improve frame table rendering speed when capturing.
+
 ## Build 0.2.6
 
 Release Date: Aug 03, 2024
