@@ -1,5 +1,13 @@
 # Changelog
 
+## Build 0.2.9
+
+Release Date: Aug 06, 2024
+
+- Fixed data graph bde sync frame capture issue.
+- Disable data graph window width as default settings.
+- Reset memory dump content before new reading.
+
 ## Build 0.2.8
 
 Release Date: Aug 05, 2024
