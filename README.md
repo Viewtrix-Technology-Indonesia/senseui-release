@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.10
+
+Release Date: Aug 07, 2024
+
+- Fixed command mode issue.
+
 ## Build 0.2.9
 
 Release Date: Aug 06, 2024
