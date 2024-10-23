@@ -1,5 +1,16 @@
 # Changelog
 
+## Build 0.2.11
+
+Release Date: Oct 23, 2024
+
+- Added ADB and SSH client adapter.
+- Added detailed adapter information.
+- Added simulated preload data converter in CLI.
+- Increase BDEM memory size from 2KB to 4KB.
+- Increase frame rate (FPS) value resolution.
+- Optimize `window-width` using `idle-duration` for faster event plot.
+
 ## Build 0.2.10
 
 Release Date: Aug 07, 2024
