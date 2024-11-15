@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.12
+
+Release Date: Nov 15, 2024
+
+- Fixed appset address being zeros when imported.
+
 ## Build 0.2.11
 
 Release Date: Oct 23, 2024
