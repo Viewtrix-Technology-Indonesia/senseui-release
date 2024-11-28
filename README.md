@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 0.2.13
+
+Release Date: Nov 28, 2024
+
+- Fixed ignored SPI/I2C dynamic settings for Client adapter type.
+
 ## Build 0.2.12
 
 Release Date: Nov 15, 2024
