@@ -1,5 +1,14 @@
 # Changelog
 
+## Build 1.0.0
+
+Release Date: Dec 04, 2024
+
+- Added support for multiple features thread (e.g. send user command while capture is active).
+- Added support for event-fifo capture handler (improve the event rate).
+- Added support for various event type (non touch event).
+- Fixed lazy populated adapter port combobox.
+
 ## Build 0.2.13
 
 Release Date: Nov 28, 2024
