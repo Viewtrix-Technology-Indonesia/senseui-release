@@ -1,5 +1,11 @@
 # Changelog
 
+## Build 1.1.0
+
+Release Date: Feb 07, 2025
+
+- Added support for burn firwmware feature in command tab.
+
 ## Build 1.0.0
 
 Release Date: Dec 04, 2024
